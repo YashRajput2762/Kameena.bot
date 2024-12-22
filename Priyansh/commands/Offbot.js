@@ -1,8 +1,8 @@
 module.exports.config = {
-	name: "offbot",
+	name: "Çute bot",
 	version: "1.0.0",
 	hasPermssion: 2,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "Yash rajput",
 	description: "turn the bot off",
 	commandCategory: "system",
 	cooldowns: 0
